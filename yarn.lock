@@ -5113,10 +5113,10 @@ gatsby-worker@1.11.0-next.1:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@4.11.0-alpha-luda.7:
-  version "4.11.0-alpha-luda.7"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.11.0-alpha-luda.7.tgz#4186430f4844f58860614ab5fdbd3c28ccaeb186"
-  integrity sha512-VCJiWVjeP5HpcTk3rYrCMZU2QrJJG+wIkC8SuZfsgI90mY+mEY14H/MdRoG4evTqRP7UMNTahBb59ezo/Xw6fw==
+gatsby@4.11.0-alpha-luda.8:
+  version "4.11.0-alpha-luda.8"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.11.0-alpha-luda.8.tgz#ec13c862b3cc29ec7ade0743b8fe7e2faff6066f"
+  integrity sha512-YDaT0Vs39gLhvh4caWLnvCWa89tgof5s0BjLR+f9kxaSpUpnLn6oDkEMCbT51vwF49PAnMllKN72p1f7haWlJg==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"

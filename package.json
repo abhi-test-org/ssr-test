@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "4.11.0-alpha-luda.7",
+    "gatsby": "4.11.0-alpha-luda.8",
     "gatsby-plugin-gatsby-cloud": "^4.3.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
