@@ -39,6 +39,9 @@ export async function getServerData() {
       // testVariable: test2,
       // gatsbyTestVariable: test,
     },
+    headers: {
+      "is_calculator": "0"
+    }
   }
 }
 export default Page
